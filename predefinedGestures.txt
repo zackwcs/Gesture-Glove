@@ -1,0 +1,33 @@
+Index & Thumb
+right
+Middle & Thumb
+left
+Ring & Thumb
+space
+Pinky & Thumb
+f
+Make a Fist
+esc
+Only Index Finger Down
+up
+Only Middle Finger Down
+down
+Only Ring Finger Down
+m
+
+Index & Thumb
+right
+Middle & Thumb
+left
+Ring & Thumb
+space
+Pinky & Thumb
+ctrl
+Make a Fist
+ctrl
+Only Index Finger Down
+ctrl
+Only Middle Finger Down
+ctrl
+Only Ring Finger Down
+ctrl
